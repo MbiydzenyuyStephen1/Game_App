@@ -15,6 +15,7 @@
     "@popperjs/core": "^2.11.8",
     "@tanstack/react-query": "4.28",
     "axios": "^1.8.1",
+    "chmod": "^0.2.1",
     "framer-motion": "^10.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
